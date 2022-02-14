@@ -26,7 +26,7 @@ export default function Home() {
    
   // set your ip pc
   useEffect(() => { 
-    fetch('http://192.168.0.36:8080/store').then(async (request) => {
+    fetch('http://seuipv4:8080/store').then(async (request) => {
       const data = await request.json();
 
       setMarkers(data);
