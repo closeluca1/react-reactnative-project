@@ -9,6 +9,9 @@ npm run dev == port 8080
 ### web
 npm run start == port 3000
 
+### app
+npm run start 
 
-link do curso 
+
+# link do curso 
  - https://www.youtube.com/watch?v=ev13kc0-RCs&list=PLgM_vQNu_4CCx-soJr2LHABD5XZmqNA-r
